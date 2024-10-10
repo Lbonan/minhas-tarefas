@@ -10,7 +10,7 @@ export const Card = styled.div`
 
 export const Titulo = styled.h3`
   font-size: 18px;
-  font=weight: bold;
+  font-weight: bold;
   margin-bottom: 16px;
 `
 
