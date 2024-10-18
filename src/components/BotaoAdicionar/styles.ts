@@ -15,5 +15,4 @@ export const Circulo = styled(Link)`
   align-items: center;
   font-size: 40px;
   text-decoration: none;
-  /* cursor: pointer; */
 `
