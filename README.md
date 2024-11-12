@@ -55,7 +55,7 @@ Este é um projeto de uma aplicação de lista de tarefas desenvolvida utilizand
 
 1.**Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/minhas-tarefas.git
+git clone https://github.com/Lbonan/minhas-tarefas.git
 ```
 2.**Navegue até a pasta do projeto:**
 ```bash
